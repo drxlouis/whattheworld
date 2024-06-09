@@ -1,0 +1,15 @@
+names:
+- art
+- human
+- phone
+- pointing
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: technoproject
+  url: https://universe.roboflow.com/drxlouis/technoproject/dataset/3
+  version: 3
+  workspace: drxlouis
+test: test/images
+train: train/images
+val: valid/images
