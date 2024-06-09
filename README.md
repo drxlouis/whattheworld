@@ -16,8 +16,9 @@ De installatie bestaat uit verschillende AI-componenten:
 - pip install -r requirements.txt
 
 ## Setup
-- run obj.py
-- run multi.py (je kan de interval tussen elke nieuwe beschrijving afbeelding aanpassen)
+- run YOLO object detection appart -> **detectionWfile.py** of **detectionWwebcam.py**
+- run agents apart -> **agents.py**
+- run yolo + agents (aanbevolen) -> **allinone.py**
 
 ## References
 - [Ultralytics 📈](https://hub.ultralytics.com/)
